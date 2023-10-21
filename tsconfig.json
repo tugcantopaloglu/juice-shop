@@ -14,7 +14,8 @@
     "resolveJsonModule": true,
     "lib": [
       "es2018",
-      "dom"
+      "dom",
+      "ES2021.String"
     ]
   },
   "include" : [
